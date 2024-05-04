@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/f4mod/static/css/main.73746fe0.css",
+    "main.js": "/f4mod/static/js/main.9293b6eb.js",
+    "static/js/453.64512fd7.chunk.js": "/f4mod/static/js/453.64512fd7.chunk.js",
+    "index.html": "/f4mod/index.html",
+    "main.73746fe0.css.map": "/f4mod/static/css/main.73746fe0.css.map",
+    "main.9293b6eb.js.map": "/f4mod/static/js/main.9293b6eb.js.map",
+    "453.64512fd7.chunk.js.map": "/f4mod/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73746fe0.css",
+    "static/js/main.9293b6eb.js"
+  ]
+}
